@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hershey and I'm a USV Operator from Scotland
+### Hi there 👋 I'm Hershey and I'm an engineer from Scotland
 
 <!--
 **HersheyStormBottle/HersheyStormBottle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
